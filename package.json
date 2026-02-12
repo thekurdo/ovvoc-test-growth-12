@@ -1,0 +1,12 @@
+{
+  "name": "ovvoc-test-growth-12",
+  "version": "1.0.0",
+  "description": "TypeScript 4.9 utility library",
+  "scripts": {
+    "build": "tsc",
+    "test": "node test/tsconfig.test.js"
+  },
+  "devDependencies": {
+    "typescript": "4.9.5"
+  }
+}
