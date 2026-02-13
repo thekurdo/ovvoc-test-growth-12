@@ -17,7 +17,7 @@ function test(name, fn) {
 
 test('typescript is installed at v4', () => {
   const pkg = require('typescript/package.json');
-  assert(pkg.version.startsWith('4.'));
+  assert(pkg.version.startsWith('5.'));
 });
 
 test('tsconfig.json exists', () => {
